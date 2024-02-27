@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Test Suite">
+    <test name="java">
+        <classes>
+            <class name="Test.TC_LoginPage"/>
+
+
+        </classes>
+    </test>
+
+</suite>
